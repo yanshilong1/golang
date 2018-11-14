@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject4/Myinterface"
+	"awesomeProject4/Myapi"
 	"fmt"
 )
 
@@ -28,6 +28,8 @@ func main() {
 	//
 
 	//
-	Myinterface.Dointerface()
+	//Myinterface.Dointerface()
 
+	//Myapi.Mybaes64()
+	Myapi.Myjson()
 }
